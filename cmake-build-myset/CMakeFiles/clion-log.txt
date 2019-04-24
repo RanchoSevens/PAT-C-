@@ -1,0 +1,4 @@
+"/Users/rancho/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.4886.39/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Release -D CMAKE_CXX_COMPILER=/usr/local/bin/g++-8 -G "CodeBlocks - Unix Makefiles" /Users/rancho/Myitem/Road_Of_PAT
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rancho/Myitem/Road_Of_PAT/cmake-build-myset
