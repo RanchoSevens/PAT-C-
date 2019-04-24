@@ -20,6 +20,9 @@ void pt_money(int money){
 }
 
 int main(){
+    string str1;
+    cin>>str1;
+    cout<<str1<<endl;
     int pk,ps,pg,ak,as,ag;
     pk=ps=pg=ak=as=ag=0;
     scanf("%d.%d.%d %d.%d.%d",&pg,&ps,&pk,\
