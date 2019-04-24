@@ -20,9 +20,12 @@ void pt_money(int money){
 }
 
 int main(){
+<<<<<<< HEAD
     string str1;
     cin>>str1;
     cout<<str1<<endl;
+=======
+>>>>>>> b78a741d33beb5c7140e00de9023fc1818023bd3
     int pk,ps,pg,ak,as,ag;
     pk=ps=pg=ak=as=ag=0;
     scanf("%d.%d.%d %d.%d.%d",&pg,&ps,&pk,\
@@ -32,4 +35,8 @@ int main(){
     int change=a1-p1;
     pt_money(change);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b78a741d33beb5c7140e00de9023fc1818023bd3
