@@ -1,4 +1,4 @@
-#include <bits&stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int a[17] = {7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2};
 int b[11] = {1, 0, 10, 9, 8, 7, 6, 5, 4, 3, 2};
